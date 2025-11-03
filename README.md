@@ -41,7 +41,7 @@ A powerful Android-first automation system that detects and blocks spam across T
 - **Flood & Raid Shield:** Burst detection, quarantine modes, and one-tap “lockdown” policy for emergencies.  
 - **Moderator Assist Tools:** Quick-actions (warn/mute/ban) hotkeys, canned responses, and evidence snapshots saved to logs.
 
-**Advanced Capabilities (Table)**
+**Advanced Capabilities**
 
 | Feature | Description |
 |---|---|
